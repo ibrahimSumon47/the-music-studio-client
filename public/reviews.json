@@ -1,0 +1,32 @@
+[
+  {
+    "course_name": "Mastering the Art of Playing Guitar",
+    "rating": 4.5,
+    "user_name": "MusicLover89",
+    "review_details": "This guitar course was fantastic! The instructor's teaching style was engaging, and I learned so many new techniques. Highly recommended!"
+  },
+  {
+    "course_name": "Mastering the Keys: Piano Playing Fundamentals",
+    "rating": 5,
+    "user_name": "PianoMaestro123",
+    "review_details": "An outstanding piano course! The lessons were well-structured, and the instructor's expertise really shines through. I feel more confident in my piano skills now."
+  },
+  {
+    "course_name": "The Art of Drumming: From Beginner to Groove Master",
+    "rating": 4,
+    "user_name": "DrumBeats4Days",
+    "review_details": "Great drumming course for beginners! I improved my rhythm and timing significantly. The instructor's explanations were clear, and the exercises were enjoyable."
+  },
+  {
+    "course_name": "Accordion",
+    "rating": 3.5,
+    "user_name": "AccordionEnthusiast",
+    "review_details": "An okay course for learning the accordion. It covered the basics, but I wish there were more advanced techniques taught. Still, I had fun learning the instrument."
+  },
+  {
+    "course_name": "Flute",
+    "rating": 5,
+    "user_name": "FluteMelodies",
+    "review_details": "Absolutely loved this flute course! The instructor's passion for the instrument is contagious. I feel inspired and can already play some beautiful melodies!"
+  }
+]
