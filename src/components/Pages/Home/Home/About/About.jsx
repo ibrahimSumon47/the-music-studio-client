@@ -5,8 +5,8 @@ const About = () => {
   return (
     <div>
         <Heading  heading="About Us"/>
-      <div className="lg:flex justify-center items-center">
-        <img className="lg:w-2/4 lg:rounded-r-full" src="https://i.ibb.co/LN4CfbP/image-2023-08-15-193547823-cleanup.png" alt="" />
+      <div className="lg:flex justify-center items-center mx-auto">
+        <img className="lg:w-2/4 lg:rounded-r-full mx-auto" src="https://i.ibb.co/LN4CfbP/image-2023-08-15-193547823-cleanup.png" alt="" />
       <p className="px-5 md:mt-5 text-2xl lg:text-4xl">Welcome to The Music Studio! We are your premier destination for
       comprehensive and inspiring music installation training courses. With a
       passion for music that resonates in every chord, we're here to nurture

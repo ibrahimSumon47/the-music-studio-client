@@ -12,10 +12,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service",
-        "template",
+        "VITE_service",
+        "VITE_template",
         form.current,
-        "PUBLIC"
+        "VITE_publicKey"
       )
       .then(
         (result) => {

@@ -10,6 +10,7 @@ import AvailableOn from "../AvailableOn/AvailableOn";
 import Reviews from "../Reviews/Reviews";
 import About from "./About/About";
 import Contact from "./Contact";
+import Newsletter from "./Newsletter/Newsletter";
 
 const Home = () => {
   const { user } = useContext(AuthContext);
@@ -19,6 +20,7 @@ const Home = () => {
       <About />
       <PopularClassSection />
       <PopularInstructors />
+      <Newsletter />
       <Reviews />
       <FAQ />
       <Contact />

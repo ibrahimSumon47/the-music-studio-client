@@ -38,8 +38,8 @@ const FAQ = () => {
                 type="radio"
                 className="cursor-pointer"
                 name="my-accordion-2"
-                onChange={() => setIsChecked(!isChecked)}
-                checked={isChecked ? "checked" : ""}
+                // onChange={() => setIsChecked(!isChecked)}
+                // checked={isChecked ? "checked" : ""}
               />
               <div className="collapse-title text-xl font-medium">
                 Q1: What is The Music Studio??
